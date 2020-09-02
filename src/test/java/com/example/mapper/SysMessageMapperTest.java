@@ -3,15 +3,10 @@ package com.example.mapper;
 import com.example.FixShardingspherePageApplicationTests;
 import com.example.entity.AppPage;
 import com.example.entity.MessagePageVO;
-import com.example.entity.SnowflakeUtils;
-import com.example.entity.SysMessage;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 
-import java.util.ArrayList;
 import java.util.List;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 /**
  * @author YanCh
